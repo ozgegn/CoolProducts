@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "productId": 785359,
+      "productName": "Apple iPhone 6 32GB Grijs",
+      "reviewInformation": {
+        "reviews": [],
+        "reviewSummary": {
+          "reviewAverage": 9.1,
+          "reviewCount": 952
+        }
+      },
+      "USPs": [
+        "32 GB opslagcapaciteit",
+        "4,7 inch Retina HD scherm",
+        "iOS 11"
+      ],
+      "availabilityState": 2,
+      "salesPriceIncVat": 369,
+      "productImage": "https://image.coolblue.nl/300x750/products/818870",
+      "coolbluesChoiceInformationTitle": "middenklasse iPhone",
+      "promoIcon": {
+        "text": "middenklasse iPhone",
+        "type": "coolblues-choice"
+      },
+      "nextDayDelivery": true
+    },
+    {
+      "productId": 793277,
+      "productName": "Apple iPhone X 64GB Space Gray",
+      "reviewInformation": {
+        "reviews": [],
+        "reviewSummary": {
+          "reviewAverage": 9.2,
+          "reviewCount": 209
+        }
+      },
+      "USPs": [
+        "64 GB opslagcapaciteit",
+        "5,8 inch Retina HD scherm",
+        "iOS 11"
+      ],
+      "availabilityState": 2,
+      "salesPriceIncVat": 1079,
+      "productImage": "https://image.coolblue.nl/300x750/products/982902",
+      "coolbluesChoiceInformationTitle": "een topklasse iPhone",
+      "promoIcon": {
+        "text": "een topklasse iPhone",
+        "type": "coolblues-choice"
+      },
+      "nextDayDelivery": true
+    }
+  ],
+  "currentPage": 2,
+  "pageSize": 24,
+  "totalResults": 70,
+  "pageCount": 3
+}

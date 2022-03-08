@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoolBlueProducts</string>
+
+    <string name="vote_average_unit_format">Star: %.1f</string>
+    <string name="total_amount_unit_format">%.2f</string>
+
+</resources>
